@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... backend development!
 - 🌱 I’m currently learning ... more about spring/springboot
-- 👯 I’m looking to collaborate with ... people who feel passionate about coding 🩵
+- 👯 I’m looking to collaborate with people who feel passionate about coding 💻
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I'm into photography 📸 recently
 
